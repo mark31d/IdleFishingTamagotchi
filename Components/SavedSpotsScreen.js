@@ -1,4 +1,4 @@
-// Components/SavedSpotsScreen.js — IceHook Atlas
+// Components/SavedSpotsScreen.js — Idle Fishing Tamagotchi
 // Saved fishing spots (offline list) + add/edit + quick filters.
 // No extra deps.
 //

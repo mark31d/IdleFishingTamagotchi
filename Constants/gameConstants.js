@@ -1,5 +1,5 @@
 // Constants/gameConstants.js
-// Константы для игры IceHook Atlas: Fish Catch
+// Константы для игры Idle Fishing Tamagotchi: Fish Catch
 
 import { Dimensions } from 'react-native';
 

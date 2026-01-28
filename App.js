@@ -1,4 +1,4 @@
-// App.js — IceHook Atlas (Trips/Routes version)
+// App.js — Idle Fishing Tamagotchi (Trips/Routes version)
 import 'react-native-gesture-handler'; // обязательно первой строкой
 
 import React, { useEffect, useState } from 'react';

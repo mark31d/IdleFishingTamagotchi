@@ -1,4 +1,4 @@
-// Components/CreateTripScreen.js — IceHook Atlas
+// Components/CreateTripScreen.js — Idle Fishing Tamagotchi
 // No extra deps. Pure RN inputs + clean dark UI.
 // Expects assets:
 // assets/onb_bg.png

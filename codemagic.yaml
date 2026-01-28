@@ -9,7 +9,7 @@ workflows:
         distribution_type: app_store
         bundle_identifier: com.IdleFishingTamagotchi
       vars:
-        APP_STORE_APPLE_ID: 6757938718
+        APP_STORE_APPLE_ID: 6758385733
         XCODE_WORKSPACE: IdleFishingTamagotchi.xcworkspace
         CODE_SCHEME: IdleFishingTamagotchi
     scripts:

@@ -1,4 +1,4 @@
-// Components/GameScreen.js — Fish Tamagotchi (IceHook Atlas)
+// Components/GameScreen.js — Fish Tamagotchi (Idle Fishing Tamagotchi)
 
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import {

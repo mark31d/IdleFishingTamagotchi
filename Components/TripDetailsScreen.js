@@ -1,4 +1,4 @@
-// Components/TripDetailsScreen.js — IceHook Atlas
+// Components/TripDetailsScreen.js — Idle Fishing Tamagotchi
 // No extra deps. Clean details + actions.
 // Expects assets:
 // assets/onb_bg.png

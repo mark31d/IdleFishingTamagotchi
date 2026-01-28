@@ -1,4 +1,4 @@
-// Components/IceGameHistoryScreen.js — IceHook Atlas
+// Components/IceGameHistoryScreen.js — Idle Fishing Tamagotchi
 // Simple history screen for mini-games: sessions list + filters + details modal.
 // No extra deps.
 //

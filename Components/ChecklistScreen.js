@@ -1,4 +1,4 @@
-// Components/ChecklistScreen.js — IceHook Atlas
+// Components/ChecklistScreen.js — Idle Fishing Tamagotchi
 // Simple trip checklist with categories, toggle items, add custom items.
 // No extra deps. (Optional: wire AsyncStorage later)
 //

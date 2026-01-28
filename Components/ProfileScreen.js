@@ -52,7 +52,7 @@ const GRAD = {
 
 export default function ProfileScreen({ navigation }) {
   const [profile, setProfile] = useState({
-    name: 'IceHook Angler',
+    name: 'Idle Fishing Tamagotchi',
     photo: null,
   });
   const [notificationsEnabled, setNotificationsEnabled] = useState(true);
@@ -214,7 +214,7 @@ export default function ProfileScreen({ navigation }) {
           onPress: async () => {
             try {
               await AsyncStorage.clear();
-              setProfile({ name: 'IceHook Angler', photo: null });
+              setProfile({ name: 'Idle Fishing Tamagotchi', photo: null });
               setNotificationsEnabled(true);
               setRealStats({
                 catches: 0,
@@ -397,7 +397,7 @@ export default function ProfileScreen({ navigation }) {
                 </TouchableOpacity>
               </View>
 
-              <Text style={styles.ratingText}>How would you rate IceHook Atlas?</Text>
+              <Text style={styles.ratingText}>How would you rate Idle Fishing Tamagotchi?</Text>
               <View style={styles.ratingStars}>
                 {[1, 2, 3, 4, 5].map((star) => (
                   <TouchableOpacity

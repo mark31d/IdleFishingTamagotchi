@@ -103,7 +103,7 @@ export default function Loader() {
       <ImageBackground source={BG} style={styles.bg} resizeMode="cover" imageStyle={styles.bgImage}>
         <View style={styles.container}>
           <View style={styles.topSection}>
-            <Text style={styles.brand}>IceHook Atlas</Text>
+            <Text style={styles.brand}>Idle Fishing Tamagotchi</Text>
             <Image source={LOGO} style={styles.logo} resizeMode="contain" />
           </View>
 

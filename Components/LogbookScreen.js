@@ -1,4 +1,4 @@
-// Components/LogbookScreen.js — IceHook Atlas
+// Components/LogbookScreen.js — Idle Fishing Tamagotchi
 // Catch logbook: list + add catch (species, size, weight, spot, notes) + simple stats.
 // No extra deps.
 //

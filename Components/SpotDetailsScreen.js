@@ -1,4 +1,4 @@
-// Components/SpotDetailsScreen.js — IceHook Atlas
+// Components/SpotDetailsScreen.js — Idle Fishing Tamagotchi
 // Spot details + quick notes + recommended gear + quick actions.
 // No extra deps.
 //
