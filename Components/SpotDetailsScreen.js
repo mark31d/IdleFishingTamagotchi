@@ -1,4 +1,4 @@
-// Components/SpotDetailsScreen.js — Idle Fishing Tamagotchi
+// Components/SpotDetailsScreen.js — Idle Fish Care
 // Spot details + quick notes + recommended gear + quick actions.
 // No extra deps.
 //

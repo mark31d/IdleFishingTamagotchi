@@ -1,4 +1,4 @@
-// Components/IceGameHistoryScreen.js — Idle Fishing Tamagotchi
+// Components/IceGameHistoryScreen.js — Idle Fish Care
 // Simple history screen for mini-games: sessions list + filters + details modal.
 // No extra deps.
 //

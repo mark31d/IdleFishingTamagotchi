@@ -1,4 +1,4 @@
-// Components/TripDetailsScreen.js — Idle Fishing Tamagotchi
+// Components/TripDetailsScreen.js — Idle Fish Care
 // No extra deps. Clean details + actions.
 // Expects assets:
 // assets/onb_bg.png

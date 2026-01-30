@@ -52,7 +52,7 @@ const GRAD = {
 
 export default function ProfileScreen({ navigation }) {
   const [profile, setProfile] = useState({
-    name: 'Idle Fishing Tamagotchi',
+    name: 'Idle Fish Care',
     photo: null,
   });
   const [notificationsEnabled, setNotificationsEnabled] = useState(true);
@@ -214,7 +214,7 @@ export default function ProfileScreen({ navigation }) {
           onPress: async () => {
             try {
               await AsyncStorage.clear();
-              setProfile({ name: 'Idle Fishing Tamagotchi', photo: null });
+              setProfile({ name: 'Idle Fish Care', photo: null });
               setNotificationsEnabled(true);
               setRealStats({
                 catches: 0,
@@ -300,7 +300,7 @@ export default function ProfileScreen({ navigation }) {
           {/* Settings */}
           <View style={styles.settingsCard}>
             <Text style={styles.sectionTitle}>Settings</Text>
-            
+
             {/* Notifications Switch */}
             <View style={styles.settingRow}>
               <View style={styles.settingLeft}>
@@ -397,7 +397,7 @@ export default function ProfileScreen({ navigation }) {
                 </TouchableOpacity>
               </View>
 
-              <Text style={styles.ratingText}>How would you rate Idle Fishing Tamagotchi?</Text>
+              <Text style={styles.ratingText}>How would you rate Idle Fish Care?</Text>
               <View style={styles.ratingStars}>
                 {[1, 2, 3, 4, 5].map((star) => (
                   <TouchableOpacity

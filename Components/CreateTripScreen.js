@@ -1,4 +1,4 @@
-// Components/CreateTripScreen.js — Idle Fishing Tamagotchi
+// Components/CreateTripScreen.js — Idle Fish Care
 // No extra deps. Pure RN inputs + clean dark UI.
 // Expects assets:
 // assets/onb_bg.png

@@ -1,4 +1,4 @@
-// Components/LogbookScreen.js — Idle Fishing Tamagotchi
+// Components/LogbookScreen.js — Idle Fish Care
 // Catch logbook: list + add catch (species, size, weight, spot, notes) + simple stats.
 // No extra deps.
 //

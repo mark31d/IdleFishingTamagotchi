@@ -1,6 +1,6 @@
 workflows:
   ios-workflow:
-    name: Idle Fishing Tamagotchi
+    name: Idle Fish Care
     max_build_duration: 120
     integrations:
       app_store_connect: IdleFishingTamagotchiAPIKey
