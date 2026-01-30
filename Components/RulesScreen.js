@@ -32,7 +32,7 @@ export default function RulesScreen({ onClose }) {
         <View style={styles.ruleSection}>
           <View style={styles.ruleSectionTitleRow}>
             <Image source={FISH_ICON} style={styles.ruleIcon} resizeMode="contain" />
-            <Text style={styles.ruleSectionTitle}>Fish Tamagotchi</Text>
+            <Text style={styles.ruleSectionTitle}>Fish Care</Text>
           </View>
           <Text style={styles.ruleText}>
             • Stats drop over time (Hunger/Clean/Energy/Happiness).{'\n'}

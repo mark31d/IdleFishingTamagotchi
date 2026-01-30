@@ -1,5 +1,5 @@
 // Constants/gameConstants.js
-// Константы для игры Idle Fish Care: Fish Catch
+// Константы для игры IdleFishCare: Fish Catch
 
 import { Dimensions } from 'react-native';
 

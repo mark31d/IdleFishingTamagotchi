@@ -1,4 +1,4 @@
-// Components/SpotDetailsScreen.js — Idle Fish Care
+// Components/SpotDetailsScreen.js — IdleFishCare
 // Spot details + quick notes + recommended gear + quick actions.
 // No extra deps.
 //

@@ -1,4 +1,4 @@
-// Components/TripDetailsScreen.js — Idle Fish Care
+// Components/TripDetailsScreen.js — IdleFishCare
 // No extra deps. Clean details + actions.
 // Expects assets:
 // assets/onb_bg.png

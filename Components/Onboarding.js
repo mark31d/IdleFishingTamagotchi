@@ -1,4 +1,4 @@
-// Components/Onboarding.js — Idle Fish Care
+// Components/Onboarding.js — IdleFishCare
 // No extra deps. Uses a horizontal Animated pager.
 // Assets (PNG) expected:
 // assets/onb_bg.png        (1080x1920 onboarding background)

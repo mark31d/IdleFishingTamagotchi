@@ -1,4 +1,4 @@
-// Components/SavedSpotsScreen.js — Idle Fish Care
+// Components/SavedSpotsScreen.js — IdleFishCare
 // Saved fishing spots (offline list) + add/edit + quick filters.
 // No extra deps.
 //

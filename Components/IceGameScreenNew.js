@@ -1,4 +1,4 @@
-// Components/IceGameScreenNew.js — Idle Fish Care: Fish Catch
+// Components/IceGameScreenNew.js — IdleFishCare: Fish Catch
 // Главный компонент с меню и роутингом
 
 import React, { useEffect, useState, useCallback } from 'react';

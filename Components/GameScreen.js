@@ -1,4 +1,4 @@
-// Components/GameScreen.js — Fish Tamagotchi (Idle Fish Care)
+// Components/GameScreen.js — Fish Tamagotchi (IdleFishCare)
 
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import {
@@ -724,7 +724,7 @@ export default function GameScreen({ onBack, coins: externalCoins, ownedFish: ex
               </TouchableOpacity>
 
               <View style={styles.headerMid}>
-                <Text style={styles.headerTitle}>Fish Tamagotchi</Text>
+                <Text style={styles.headerTitle}>Fish Care</Text>
               </View>
 
               <View style={styles.coinsPill}>

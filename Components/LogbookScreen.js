@@ -1,4 +1,4 @@
-// Components/LogbookScreen.js — Idle Fish Care
+// Components/LogbookScreen.js — IdleFishCare
 // Catch logbook: list + add catch (species, size, weight, spot, notes) + simple stats.
 // No extra deps.
 //

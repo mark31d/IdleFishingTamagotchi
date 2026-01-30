@@ -1,4 +1,4 @@
-// App.js — Idle Fish Care (Trips/Routes version)
+// App.js — IdleFishCare (Trips/Routes version)
 import 'react-native-gesture-handler'; // обязательно первой строкой
 
 import React, { useEffect, useState } from 'react';
